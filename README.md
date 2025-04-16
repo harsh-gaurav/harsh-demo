@@ -1,4 +1,4 @@
 # harsh-demo
 this is my first git repository
 <br>
-Author- Harsh Gaurav
+Author- Harsh Gaurav(msrit)
